@@ -1,0 +1,17 @@
+.flex{display:flex}
+.pt-0-5{padding-top:.5rem}
+.align-items-center{align-items:center}
+.main-form{background:white;margin-right:1rem;padding:1rem;border:1px solid #c3c4c7}
+.message{margin-top:1rem;}
+.sync-message{display:none}
+.sync-message--notice{color:red}
+.sync-message--fail{display:none; color:red;}
+.sync-message--fail-message{display: flex; align-items: center; margin: 1rem 0;}
+.sync-message--fail-message img{width: 1.5rem;margin: 0 .25rem;}
+.sync-message--not-found{display:none}
+.advantage-settings-trigger{cursor: pointer;margin-bottom: 1rem;}
+.advantage-settings{display:none;margin: 1rem 0;}
+.advantage-settings input{width: 3rem; margin: 0 .25rem;}
+.sync-loading{width:3rem}
+.sync-message--finish{display:none;color:green}
+.xync-collector input{padding:0 8px;line-height:2;min-height:30px;width:300px}
